@@ -1,0 +1,1 @@
+alert('built in test for semidynamic preload')
